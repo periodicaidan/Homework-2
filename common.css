@@ -3,6 +3,11 @@ body {
     background-size: cover;
 }
 
+nav,
+main {
+    margin-bottom: 50px;
+}
+
 .navbar-brand,
 .page-header {
     font-family: serif;
