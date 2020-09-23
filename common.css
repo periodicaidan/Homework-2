@@ -1,0 +1,28 @@
+.navbar-brand,
+.page-header {
+    font-family: serif;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color: white !important;
+    background-color: lightseagreen;
+}
+
+.page-header {
+    color: lightseagreen;
+}
+
+footer {
+    background-color: grey;
+    border-top: 5px solid lightseagreen;
+}
+
+#copyright-notice {
+    color: white;
+}
+
+form button {
+    background-color: lightseagreen !important;
+    color: white !important;
+}
